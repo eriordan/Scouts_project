@@ -1,0 +1,21 @@
+{
+  "name": "scouting_project",
+  "version": "1.0.0",
+  "description": "web service lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fxwalsh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "lodash": "^4.7.0",
+    "mailgun-js": "^0.7.7",
+    "mongoose": "^4.4.6",
+    "pubnub": "^3.14.5",
+    "shortid": "^2.2.4"
+  },
+  "devDependencies": {}
+}
